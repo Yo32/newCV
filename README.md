@@ -1,2 +1,0 @@
-# newCV
-Created with CodeSandbox
